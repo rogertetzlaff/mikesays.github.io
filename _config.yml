@@ -16,7 +16,7 @@
 title: Sh!t Mike Says
 email: blog@shitmikesays.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of maxims, sayings, and aphorisms made my Mike. Made by fans of Mike.
+  A collection of maxims, sayings, and aphorisms from Mike. Made for Mike by fans of Mike.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shitmikesays.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mkrafick
